@@ -1,0 +1,17 @@
+@import "tailwindcss";
+
+/* Prevent layout shift when scrollbar appears */
+html {
+  scrollbar-gutter: stable;
+}
+
+/* Optional: extra safety against horizontal overflow */
+html, body {
+  overflow-x: clip;
+}
+
+@layer base {
+  a {
+    @apply text-slate-300 underline underline-offset-4 decoration-white/20 hover:decoration-white/60;
+  }
+}
