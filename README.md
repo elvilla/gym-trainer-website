@@ -1,5 +1,33 @@
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
+## Gym Trainer Website
+
+Modern responsive landing website for a personal trainer in Buenos Aires.
+
+## Tech Stack
+
+- Next.js
+- React
+- Tailwind CSS
+- Vercel
+
+## Features
+
+- Responsive mobile-first design
+- Cinematic hero section with video
+- Contact form
+- Training plans page
+- Clean dark UI
+
+## Preview
+
+![Preview](preview.png)
+
+## Author
+
+Martin Villarreal
+
+
 ## Getting Started
 
 First, run the development server:
